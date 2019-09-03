@@ -1,7 +1,8 @@
 {
-  "name": "react-shopping",
+  "name": "React-Shop",
   "version": "1.0.0",
   "description": "A small React exercise using the props, states and localStorage",
+  "homepage": "https://M4r28.github.io/React-Shop",
   "scripts": {
     "build-css": "node-sass-chokidar src/sass/ -o src/css/",
     "start": "react-scripts start",
@@ -11,7 +12,6 @@
     "deploy": "gh-pages -d build"
   },
   "license": "MIT",
-  "homepage": "https://fbw-12.github.io/Simple-React-Shop/",
   "browserslist": [
     ">0.2%",
     "not dead",
@@ -21,6 +21,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.8.1",
     "bootstrap": "^4.3.1",
+    "gh-pages": "^2.1.1",
     "node-sass-chokidar": "^1.3.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
