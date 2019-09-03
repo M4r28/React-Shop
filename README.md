@@ -15,4 +15,8 @@ This is a small demo to show how the State can be used in React (**without Redux
 
 ## Online Demo
 
-[Check the demo](https://fbw-12.github.io/Simple-React-Shop/)
+[Check the demo](https://simple-react-shop.m4r28.now.sh/)
+
+## Preview
+
+![preview](./preview.png)
